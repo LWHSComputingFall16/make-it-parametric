@@ -1,0 +1,3 @@
+[submodule "OpenJsCad"]
+	path = OpenJsCad
+	url = https://github.com/joostn/OpenJsCad.git
